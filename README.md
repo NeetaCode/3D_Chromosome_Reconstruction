@@ -1,2 +1,0 @@
-# 3D_Chromosome_Reconstruction
-Reinforcement Learning on Chromosomes
